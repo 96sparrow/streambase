@@ -36,7 +36,7 @@
 <scm>
     <connection>scm:git:git@github.com:96sparrow/tme.git</connection>
     <developerConnection>scm:git:ssh://github.com:96sparrow/tme.git</developerConnection>
-    <url>https://github.com/96sparrow/tme/tree/master</url>
+    <url>https://github.com/96sparrow/tme/tree/main</url>
 </scm>
 
 <profiles>
