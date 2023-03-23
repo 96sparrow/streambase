@@ -11,7 +11,7 @@
     This project is a library for sending Kafka messages in Java.
     DON'T USE THIS IN PRODUCTION. IT WAS CREATED FOR DEMO PURPOSES ONLY.
 </description>
-<url>https://github.com/96sparrow/tme.git</url>
+<url>https://github.com/96sparrow/streambase.git</url>
 
   <licenses>
     <license>
@@ -34,9 +34,9 @@
 </developers>
 
 <scm>
-    <connection>scm:git:git@github.com:96sparrow/tme.git</connection>
-    <developerConnection>scm:git:ssh://github.com:96sparrow/tme.git</developerConnection>
-    <url>https://github.com/96sparrow/tme/tree/main</url>
+    <connection>scm:git:git@github.com:96sparrow/streambase.git</connection>
+    <developerConnection>scm:git:ssh://github.com:96sparrow/streambase.git</developerConnection>
+    <url>https://github.com/96sparrow/streambase/tree/main</url>
 </scm>
 
 <profiles>
@@ -103,7 +103,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/96sparrow/tme</url>
+      <url>https://maven.pkg.github.com/96sparrow/streambase</url>
     </repository>
   </distributionManagement>
 
