@@ -6,7 +6,7 @@
 
   <groupId>com.tme.chargingunit</groupId>
   <artifactId>java.maven</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3</version>
   <description>
     This project is a library for sending Kafka messages in Java.
     DON'T USE THIS IN PRODUCTION. IT WAS CREATED FOR DEMO PURPOSES ONLY.
